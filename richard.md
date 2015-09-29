@@ -8,4 +8,4 @@
 
 ----
 
-![this is an image - insert yours](https://github.com/80masters/practicerepo/dscn3795.jpg)
+(https://github.com/80masters/practicerepo/DSCN3795.jpg)
