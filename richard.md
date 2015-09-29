@@ -1,14 +1,11 @@
 # Richard Soulliere
 
-> I'm an MA student in ALDS, specializing in DH.
+> I'm an MA student @ Carleton's prorgram in ALDS, specializing in DH.
 
 ## Online Coordinates
 
-+ [github repo](http://link.to.your.repo)
-+ [other](http://self.evident.right)
++ [github repo](https://github.com/80masters)
 
 ----
 
-![this is an image - insert yours](http://dhcu.ca/file/b19aebc8d32bb91c6aec3a14d4c80188/thumb.jpg)
-
-### Fork this repo, change this file appropriately, then make a pull request. Change the file name too, right, or you'll overwrite this template.
+![this is an image - insert yours](C:\Users\User\Pictures\2015\dscn3795.jpg)
