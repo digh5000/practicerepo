@@ -1,14 +1,14 @@
-# Allie Watson
+# Seonaid Alexandra Watson
 
-English MA attempting to make critical readings of tweets.
+Making another copy of this to walk Sharon through it… Wish me luck.
 
 ## Online Coordinates
 
-+ [github repo](https://github.com/SAllieW/practicerepo)
++ [github repo](https://github.com/SAllieW)
 + [twitter handle](https://twitter.com/allieisanant)
 
 ----
 
-(https://pbs.twimg.com/profile_images/646056751779958785/r7hOLGat.jpg)
+(https://scontent-lga3-1.xx.fbcdn.net/hphotos-xtp1/t31.0-8/11217947_10155720295220654_1372827836374891961_o.jpg)
 
 
