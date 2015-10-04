@@ -8,4 +8,4 @@
 
 ----
 
-![me](/DSCN3795.jpg?raw=true)
+![me](http://ecx.images-amazon.com/images/I/41BKfqKRYZL._SY450_.jpg?raw=true)
