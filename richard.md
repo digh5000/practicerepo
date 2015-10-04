@@ -8,4 +8,4 @@
 
 ----
 
-![me](https://github.com/80masters/practicerepo/DSCN3795.jpg?raw=true)
+![me](/DSCN3795.jpg?raw=true)
